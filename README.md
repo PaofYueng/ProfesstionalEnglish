@@ -37,4 +37,7 @@ int main(){
 
 *italicized text*
 
-`strikethrough text~~like this~~`
+~~strike text~~
+
+------
+
