@@ -9,4 +9,13 @@ homework for professional english
 
 [anothermd](https://github.com/PaofYueng/ProfesstionalEnglish/blob/main/another.md)
 
-![](https://github.com/PaofYueng/ProfesstionalEnglish/blob/main/apicture.jpg)
+![apicture.jpg](https://github.com/PaofYueng/ProfesstionalEnglish/blob/main/apicture.jpg)
+
+[![gpnyYn.jpg](https://z3.ax1x.com/2021/04/26/gpnyYn.jpg)](https://imgtu.com/i/gpnyYn)
+
+```cpp
+int main(){
+	return 0;
+}
+```
+
