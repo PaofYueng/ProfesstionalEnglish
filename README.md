@@ -5,5 +5,5 @@ homework for professional english
 
 #### anH4sizedheader.
 
-[alinktoanexternalweb site.](www.baidu.com)
+[alinktoanexternalweb site.](https://www.baidu.com)
 
